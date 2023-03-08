@@ -17,8 +17,14 @@ I also learning:
 - 👩‍💻 Languages: Python, Advanced JavaScript, TypeScript, Java, Go
 - ⚡ Databases: MongoDB, PostgreSQL
 
-## My Top Languages
+## 👩‍💻 Programming Languages
+- Top Languages Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanlikestocode44&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+- Other Languages
+
 
 ## 📟 My GitHub Profile Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanlikestocode44&show_icons=true&theme=tokyonight)
+
+## 👨 Social Media
+![Instagram]({https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white})
