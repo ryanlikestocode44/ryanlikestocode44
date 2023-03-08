@@ -1,4 +1,4 @@
-######## Hi! I am Ryan Nicholas Purba
+###### Hi! I am Ryan Nicholas Purba
 
 I am an Indonesian Web Developer who likes to learn and code. I am so proud to be started as a Web Developer since 2021. I love to read documentations, portfolios, algorithms and many resources to rich my knowledge of technologies and coding.
 
