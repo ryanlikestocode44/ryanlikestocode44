@@ -12,10 +12,10 @@ I am an Indonesian Web Developer who likes to learn and code. I am so proud to b
 My goals I am catching on are making web applications and clones. I also have a plan to start learning App Development from get rid into React Native, Kotlin, Firebase, and Flutter
 
 I also learning:
-- 🚀 Frameworks: React, Vue, Angular
+- 🚀 Frameworks: React
 - 🖍 Design: Figma, Adobe Photoshop
-- 👩‍💻 Languages: Python, Advanced JavaScript, TypeScript, Java, Go
-- ⚡ Databases: MongoDB, PostgreSQL
+- 👩‍💻 Languages: Advanced JavaScript, Java, Go
+- ⚡ Databases: MongoDB, MySQL
 
 ## 👩‍💻 Programming Languages
 - Top Languages Stats
