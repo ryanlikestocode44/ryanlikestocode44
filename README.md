@@ -14,8 +14,8 @@ My goals I am catching on are making web applications and clones. I also have a 
 I also learning:
 - 🚀 Frameworks: React
 - 🖍 Design: Figma, Adobe Photoshop
-- 👩‍💻 Languages: Advanced JavaScript, Java, Go
-- ⚡ Databases: MongoDB, MySQL
+- 👩‍💻 Languages: JavaScript, Python
+- ⚡ Databases: MySQL, PostgreSQL
 
 ## 👩‍💻 Programming Languages
 - Top Languages Stats
