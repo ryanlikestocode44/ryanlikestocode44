@@ -27,4 +27,4 @@ I also learning:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanlikestocode44&show_icons=true&theme=tokyonight)
 
 ## 👨 Social Media
-![Instagram]({https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white})
+<a href="https://www.instagram.com/ryan_nicholas.44/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
