@@ -4,7 +4,7 @@ I am an Indonesian Web Developer who likes to learn and code. I am so proud to b
 
 - 📚 I am currently studying in Gunadarma University in Indonesia
 - 👥 I joined Frontend Developers and Reactiflux Community on Discord
-- 🎮 I love playing games including Roblox and Counter Strike. I also like to modify the game
+- 🎮 I love playing games including Roblox and GTA. I also like to modify the game
 - 💡 My Mother tongue is Indonesian, although I am still learning to fix my English speaking and writing
 - 💻 I am looking for collaboration, coding discussion and seminar
 
